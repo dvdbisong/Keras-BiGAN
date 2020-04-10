@@ -9,7 +9,7 @@ import os
 im_size = 128
 latent_size = 64
 BATCH_SIZE = 32
-directory = "Faces256"
+directory = "vitiligo"
 suff = 'jpg'
 cmode = 'RGB'
 channels = 3
